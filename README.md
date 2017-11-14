@@ -29,6 +29,9 @@
 - [Stack] onderzocht
 - [Hackage] onderzocht
 - [Cabal] onderzocht
+### 13/11/2017
+- [Scotty] (Haskell web framework) onderzocht
+- [BlazeHtml] (Haskell templating engine) onderzocht
 
 ## Bronnen
 - [Haskell website]
@@ -41,8 +44,11 @@
 - [Cabal]
 - [Real World Haskell]
 - [Happy Learn Haskell Tutorial]
+- [Scotty]
+- [BlazeHtml]
 - https://stackoverflow.com/questions/1012573/getting-started-with-haskell
 - https://stackoverflow.com/questions/1024585/haskell-vs-procedural-programming-in-the-real-world
+- http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html
 
 [Haskell website]: https://www.haskell.org
 [Learn You a Haskell for Great Good!]: http://learnyouahaskell.com/chapters
@@ -54,3 +60,5 @@
 [Cabal]: https://www.haskell.org/cabal
 [Real World Haskell]: http://book.realworldhaskell.org/read
 [Happy Learn Haskell Tutorial]: http://www.happylearnhaskelltutorial.com/contents.html
+[Scotty]: http://hackage.haskell.org/package/scotty
+[BlazeHtml]: https://jaspervdj.be/blaze/
