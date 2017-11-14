@@ -7,10 +7,10 @@
 - Tutorial op de [Haskell website] opnieuw gevolgd
 - Test code geschreven
 ### 06/11/2017
-- [Learn You a Haskell for Great Good!][2] tutorial gevolgd
+- [Learn You a Haskell for Great Good!] tutorial gevolgd
 - Test code geschreven
 ### 07/11/2017
-- [Learn You a Haskell for Great Good!][2] tutorial gevolgd
+- [Learn You a Haskell for Great Good!] tutorial gevolgd
 - [Haskell IDEs] onderzocht
 - [Leksah] (Haskell IDE) geïnstalleerd
 - Test code geschreven
