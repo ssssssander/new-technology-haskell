@@ -32,6 +32,9 @@
 ### 13/11/2017
 - [Scotty] (Haskell web framework) onderzocht
 - [BlazeHtml] (Haskell templating engine) onderzocht
+### 16/11/2017
+- [Snap] (Haskell web framework) onderzocht
+- Presentatie afgemaakt
 
 ## Bronnen
 - [Haskell website]
@@ -61,4 +64,5 @@
 [Real World Haskell]: http://book.realworldhaskell.org/read
 [Happy Learn Haskell Tutorial]: http://www.happylearnhaskelltutorial.com/contents.html
 [Scotty]: http://hackage.haskell.org/package/scotty
-[BlazeHtml]: https://jaspervdj.be/blaze/
+[BlazeHtml]: https://jaspervdj.be/blaze
+[Snap]: http://snapframework.com
